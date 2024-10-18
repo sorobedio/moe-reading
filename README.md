@@ -1,7 +1,7 @@
 Reading
 
 
-# List of Mixture of Experts (MoE) and Large Language Model (LLM) Papers
+# List of Mixture of Experts (MoE) and Large Language Model (LLM) Papers focusing on model Upcycling
 
 This repository contains a collection of important papers related to Mixture of Experts (MoE) and Large Language Models (LLMs), along with links to their corresponding Arxiv pages and available GitHub code.
 
