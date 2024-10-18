@@ -15,6 +15,8 @@ This repository contains a collection of important papers related to Mixture of 
 | 7     | [SPARSE UPCYCLING: TRAINING MIXTURE-OF-EXPERTS FROM DENSE CHECKPOINTS](https://arxiv.org/abs/2212.05055)                 | 2023     | [Arxiv](https://arxiv.org/abs/2212.05055)                             | [GitHub](https://github.com/google-research/vmoe)                    |
 | 8     | [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2301.07767)      | 2023     | [Arxiv](https://arxiv.org/abs/2301.07767)                             | [GitHub](https://github.com/EleutherAI/pythia)                       |
 | 9     | [Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models](https://arxiv.org/abs/2208.03306)       | 2023     | [Arxiv](https://arxiv.org/abs/2208.03306)                             | [GitHub](https://github.com/hadasah/btm)                             |
+| 10     | **[Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization](https://arxiv.org/abs/2404.11531)** | 2024 | [Arxiv](https://arxiv.org/abs/2404.11531) | [GitHub](https://github.com/cmavro/packllm) |
+| 11     | **[Scaling expert language models with unsupervised domain discovery](https://arxiv.org/abs/2303.14177)** | 2023 | [Arxiv](https://arxiv.org/abs/2303.14177) | [GitHub](https://github.com/kernelmachine/cbtm) |
 
 
 
