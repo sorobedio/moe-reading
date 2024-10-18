@@ -16,5 +16,9 @@ This repository contains a collection of important papers related to Mixture of 
 | 7     | [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2301.07767) | 2023     | [Arxiv](https://arxiv.org/abs/2301.07767)                              | [GitHub](https://github.com/EleutherAI/pythia)                       |
 | 8     | [Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models](https://arxiv.org/abs/2208.03306) | 2023     | [Arxiv](https://arxiv.org/abs/2208.03306)                              | [GitHub](https://github.com/hadasah/btm)                             |
 
+| 9     | [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.11163) | 2024     | [Arxiv](https://arxiv.org/abs/2208.03306)                              |  No code available                          |
+
+
+
 ## Contributing
 Feel free to open a pull request if you find new papers or code related to MoE and LLMs. Let's keep this list growing!
