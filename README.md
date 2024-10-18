@@ -18,3 +18,5 @@ SPARSE UPCYCLING: TRAINING MIXTURE-OF-EXPERTS FROM DENSE CHECKPOINTS
 Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
 
 Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
+
+Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
