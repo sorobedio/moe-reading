@@ -20,3 +20,5 @@ Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
 Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
 
 Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
+
+Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models
