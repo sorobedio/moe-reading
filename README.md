@@ -19,6 +19,9 @@ This repository contains a collection of important papers related to Mixture of 
 | 9     | [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)      | 2023     | [Arxiv](https://arxiv.org/abs/2304.01373)                             | [GitHub](https://github.com/eleutherai/pythia)                       |
 | 10    | [Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models](https://arxiv.org/abs/2208.03306)       | 2023     | [Arxiv](https://arxiv.org/abs/2208.03306)                             | [GitHub](https://github.com/hadasah/btm)                             |
 | 11    | [SPARSE UPCYCLING: TRAINING MIXTURE-OF-EXPERTS FROM DENSE CHECKPOINTS](https://arxiv.org/abs/2212.05055)                 | 2023     | [Arxiv](https://arxiv.org/abs/2212.05055)                             | [GitHub](https://github.com/google-research/vmoe)                    |
+| 12   | [Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging](https://arxiv.org/abs/2410.01610)                 | 2024    | [Arxiv](https://arxiv.org/abs/2410.01610)                             | Not available                   |
+
+
 
 
 ***Advances in Weight Generation and Retrieval for Language Models**
