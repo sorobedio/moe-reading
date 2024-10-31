@@ -35,5 +35,12 @@ This repository contains a collection of important papers related to Mixture of 
 
 
 
+Vector Quantization Prompting for Continual Learning
+
+Historical Test-time Prompt Tuning for Vision Foundation Models
+
+
+
+
 ## Contributing
 Feel free to open a pull request if you find new papers or code related to MoE and LLMs. Let's keep this list growing!
